@@ -246,7 +246,7 @@
           <div class="envelope"></div>
           <div class="front"></div>
           <div class="card">
-            <div class="text">Semangat</br> Zahra</br>Rahmanita !!!</div>
+            <div class="text">Semangat</br> Kerja-nya</br>Nevyy!!!</div>
             <div class="heart"> </div>
           </div>
           <div class="hearts">
